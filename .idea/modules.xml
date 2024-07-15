@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/deneme2.iml" filepath="$PROJECT_DIR$/deneme2.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/BookShop.iml" filepath="$PROJECT_DIR$/BookShop.iml" />
+>>>>>>> ff7f48d (initial commit)
     </modules>
   </component>
 </project>
